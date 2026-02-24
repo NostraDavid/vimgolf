@@ -5,6 +5,7 @@
 !attempts
 !flake.lock
 !flake.nix
+!*.re
 
 # folders
 
